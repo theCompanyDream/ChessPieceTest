@@ -1,0 +1,6 @@
+*.dll
+__MACOSX*/
+*docx
+MhmCodingExercise/packages*
+bin/
+obj/

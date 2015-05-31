@@ -1,0 +1,1 @@
+﻿I had some dissagreements with the way it was designed so I created this project so that the chessboard and classes make a bit more sense
